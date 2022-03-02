@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vernon Bengtson</h1>
-<h3 align="center">Just an ex-oilfield worker looking to make it in tech</h3>
+<h3 align="center">Just looking to make it in tech and learn as much as possible along the way</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vabiii&label=Profile%20views&color=0e75b6&style=flat" alt="vabiii" /> </p>
 
