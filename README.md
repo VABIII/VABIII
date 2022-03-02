@@ -15,6 +15,10 @@
 
 - ⚡ Fun fact **When you "fall", the ground comes to you.**
 
+- African Marketplace is a React front end for produce merchants to view market prices of their goods across different regions in the area
+
+- Anywhere Fitness is a Nodejs api and Postgres database that allows gym owners to store and manipulate customer and employee information
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vernon bengtson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vernon bengtson" height="30" width="40" /></a>
