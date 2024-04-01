@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vernon Bengtson</h1>
+<h1 align="center">Hi 👋, I'm Trey Bengtson</h1>
 <h3 align="center">Just looking to make it in tech and learn as much as possible along the way</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vabiii&label=Profile%20views&color=0e75b6&style=flat" alt="vabiii" /> </p>
@@ -10,8 +10,6 @@
 - 💬 Ask me about **React, Python, or anything else.**
 
 - 📫 How to reach me **tbengtson82@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1lQ8EkoAlI9XPcOUvYLbkaTzaCCSHV-OxtnhJ8hGTm14/edit?usp=sharing](https://docs.google.com/document/d/1lQ8EkoAlI9XPcOUvYLbkaTzaCCSHV-OxtnhJ8hGTm14/edit?usp=sharing)
 
 - ⚡ Fun fact **When you "fall", the ground comes to you.**
 
